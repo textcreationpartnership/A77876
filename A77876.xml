@@ -1,0 +1,308 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The most difficult duty made easy: or, Directions to bring our hearts to forgive our enemies By D.B. Minister of the Gospel.</title>
+            <author>Burgess, Daniel, 1645-1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77876</idno>
+            <idno type="STC">Wing B5710</idno>
+            <idno type="STC">ESTC R231152</idno>
+            <idno type="EEBO-CITATION">99896784</idno>
+            <idno type="PROQUEST">99896784</idno>
+            <idno type="VID">133213</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77876)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133213)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2441:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The most difficult duty made easy: or, Directions to bring our hearts to forgive our enemies By D.B. Minister of the Gospel.</title>
+                  <author>Burgess, Daniel, 1645-1713.</author>
+               </titleStmt>
+               <extent>32 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Andrew Bell and Jonas Luntley at the Pestle and Mortar, over against the Horse-shoe-Tavern in Chancery-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first leaf is blank.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Forgiveness --  Religious aspects --  Early works to 1800.</term>
+               <term>Christian literature --  Early works to 1800.</term>
+               <term>Interpersonal relations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133213:1"/>
+            <p>THE Moſt difficult DUTY made Eaſy: Or, Directions to bring our Hearts to Forgive our Enemies.</p>
+            <p>By <hi>D. B.</hi> Miniſter of the Goſpel.</p>
+            <q>
+               <p>The ſtrict Precept of Loving, and Bleſſing, and Praying for Enemies, is more clear<g ref="char:EOLhyphen"/>ly perceptive; and ſo, more indiſpenſa<g ref="char:EOLhyphen"/>bly obligatory to us Chriſtians, than ever it was to the Jews before.</p>
+               <bibl>Dr. <hi>H. Hammond</hi> Serm. on <hi>Luke 9.55.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>What Chriſtian ſoever can indulge himſelf the enjoyment of that helliſh Senſuality of Revenge; nay, that doth not practiſe the high, but neceſſary Perfection of overcom<g ref="char:EOLhyphen"/>ing Evil with Good, he knows not what Spirit he is of. <bibl>
+                     <hi>Id. ibid.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Andrew Bell</hi> and <hi>Jonas Luntley</hi> at the Peſtle and Mortar, over againſt the Horſe<g ref="char:EOLhyphen"/>ſhoe-Tavern in <hi>Chancery-Lane.</hi> 1694.</p>
+         </div>
+         <div type="Psalm">
+            <pb facs="tcp:133213:2"/>
+            <pb facs="tcp:133213:2"/>
+            <head>
+               <hi>S. Woodford,</hi> in Paraph. <hi>Pſ.</hi> 35.</head>
+            <l>FAlſe Witneſſes did up againſt me riſe,</l>
+            <l>With charge of Crimes I never knew:</l>
+            <l>My good Deeds anſwer'd with Indigni<g ref="char:EOLhyphen"/>ties,</l>
+            <l>And to the Death my Soul did cloſe purſue.</l>
+            <l>Thoſe for whoſe Griefs I truly mourn'd,</l>
+            <l>And pray'd for, ſick, tho on my ſelf the Pray'rs return'd.</l>
+            <l>For my beſt Friend I could have done no more,</l>
+            <l>Not more, had he my Brother been;</l>
+            <l>I did as heartily his Loſs deplore,</l>
+            <l>As if I then my Mother's Grave had ſeen.</l>
+            <l>Tho in my Troubles they rejoice,</l>
+            <l>And all my Griefs outbrave with their inſulting Voice.</l>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:133213:3"/>
+            <pb n="7" facs="tcp:133213:3"/>
+            <head>
+               <hi>The moſt difficult Duty made Eaſy: <hi>OR, The Queſtion Reſolved,</hi>
+               </hi> How we may bring our Hearts to Forgive our Enemies?</head>
+            <div type="part">
+               <p>THE Law of <hi>Kindneſs</hi> ſeems Repealed among us. Giving <hi>Love,</hi> and Forgiving, both are Exiles, baniſhed out of our <hi>Chriſtendom.</hi> Their Contraries do every where reign and tyrannize. <hi>Bitterneſs</hi> and <hi>Wrath</hi> fill every Place; and <hi>there's nothing hid from the Heat thereof.</hi> No; <hi>nor is there any Speech or Language, wherein their Voice is not heard.</hi> Every Man is a <hi>Rehoboam,</hi> and anſwers <hi>Roughly; Nabal</hi> is a com<g ref="char:EOLhyphen"/>mon Name to all. The very <hi>Poor do diſuſe Intreaties.</hi> There's no <hi>Voice,</hi>
+                  <pb n="8" facs="tcp:133213:4"/> but is turned to <hi>Clamour; Railing</hi> is our <hi>Rhetorick, Brawling</hi> our <hi>Eloquence.</hi> What <hi>Tongue</hi> is not a <hi>Sword?</hi> Whoſe <hi>Lips</hi> be not <hi>Spears,</hi> in our Militant State? There's <hi>no Strife</hi> in <hi>Hea<g ref="char:EOLhyphen"/>ven;</hi> and there is <hi>little beſide</hi> upon this <hi>Earth.</hi>
+               </p>
+               <p>Nor can ever <hi>Grapes</hi> be expected from <hi>Thorns,</hi> or <hi>Figs</hi> from <hi>Thiſtles.</hi> I am not going to <hi>Prune</hi> them, and <hi>Dig</hi> about them, with ſuch an Expecta<g ref="char:EOLhyphen"/>tion. <hi>Wickedneſs will proceed from the Wicked;</hi> and <hi>muſt</hi> ſo do. But <hi>Vines</hi> there be, that would yield better Fruit, if we could take the <hi>Foxes,</hi> the <hi>lit<g ref="char:EOLhyphen"/>tle Foxes</hi> that ſpoil them. <hi>Good Men</hi> have an Internal <hi>Treaſure,</hi> whence they might bring forth good Things; and with eaſe enough, were but <hi>the Thieves that break in and ſteal,</hi> expel<g ref="char:EOLhyphen"/>led. Theſe <hi>Branches</hi> (broke off the Tree whereon they grew; the Ser<g ref="char:EOLhyphen"/>mon, in which they were born) are deſigned for <hi>Rods,</hi> to whip thoſe thieviſh <hi>Buyers and Sellers out of the</hi> ſaid <hi>Temples.</hi> Ill Men are <hi>Dunghils;</hi>
+                  <pb n="9" facs="tcp:133213:4"/> and Good Ones are <hi>Temples;</hi> in <hi>Chri<g ref="char:EOLhyphen"/>ſtian</hi> Divinity and very <hi>Pagan,</hi> they are ſo.</p>
+               <p>But ſcarcely ſhall I Forgive my ſelf, if I waſte my Time in <hi>Com<g ref="char:EOLhyphen"/>plaints:</hi> Or in telling what I deſign to do, otherwiſe than by doing it. Wherefore (being <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c.) a ſhort <hi>Paragraph</hi> ſhall uſher in my <hi>twenty four Directions.</hi>
+               </p>
+               <p>By <hi>Forgiving</hi> Enemies, I mean, <hi>Turning from Endeavour and from Deſire to do them Hurt, unto Rea<g ref="char:EOLhyphen"/>dineſs to do them Good, as Op<g ref="char:EOLhyphen"/>portunity ſerves.</hi> Unto which we are obliged, whether our Pardon be craved or no. A <hi>Man</hi> is ſtill to be loved as a <hi>Man,</hi> and a <hi>Kinſman</hi> as a <hi>Kinſman;</hi> Penitent or Impeni<g ref="char:EOLhyphen"/>tent. I do not by <hi>Forgiving</hi> here intend, ſo much as <hi>Reſtoring them into former Eſteem and Intimacy.</hi> No faith<g ref="char:EOLhyphen"/>ful <hi>Church</hi> will ſo reſtore any <hi>ſcanda<g ref="char:EOLhyphen"/>lous Member;</hi> nor any <hi>wiſe Man,</hi> ſo reſtore an <hi>injurious Offender,</hi> before his
+<pb n="10" facs="tcp:133213:5"/> thorough Repentance credibly pro<g ref="char:EOLhyphen"/>feſſed. <hi>Honour,</hi> and <hi>Love of this ſort</hi> depend on Mens <hi>Innocence</hi> and <hi>Repen<g ref="char:EOLhyphen"/>tance.</hi> Now,</p>
+               <p>Unto <hi>the firſt kind of Forgiving,</hi> an untoward Heart ſeems eaſily brought, by telling it ſelf as follows. Twelve Particulars concerning the <hi>Duty</hi> it ſelf, and <hi>Twelve</hi> more concerning the <hi>Perſon</hi> on whom it is incumbent.</p>
+            </div>
+            <div type="part">
+               <head>Concerning the Duty, ſeriouſly tell thy ſelf to this Effect.</head>
+               <p n="1">1. <hi>It is my Duty. Therefore I will Forgive.</hi> If it be not <hi>a Duty,</hi> where is God's Authority? He Commands it. If it be not <hi>my Duty,</hi> I muſt not be God's Subject. For his Law binds all his Subjects. If I do not Forgive my Enemy, I deny my God. But, <hi>How can I do this Evil?</hi> Gen. 39.9.</p>
+               <p n="2">2. <hi>It is my DIFFIC<g ref="char:V">Ʋ</g>LT Duty. Therefore I will induſtriouſly Forgive.</hi> Not with a Forgiveneſs that ſhall coſt
+<pb n="11" facs="tcp:133213:5"/> me nothing. I will go to the Expence of much Pains for it. Though I am <hi>glued</hi> to my Wrath, I will <hi>tear</hi> my ſelf from it: And with ſtrong Cries pray <hi>Almighti<g ref="char:EOLhyphen"/>neſs</hi> to bring me to <hi>brotherly Kindneſs.</hi> Labour in Duty is never loſt. That which <hi>requires</hi> it moſt, <hi>requiteth</hi> it beſt. Wherefore, <hi>My Heart ſhall ſtir me up, my Spirit ſhall make me willing,</hi> though it find me not ſo, <hi>Exod.</hi> 35.21.</p>
+               <p n="3">3. <hi>It is my EQ<g ref="char:V">Ʋ</g>ITABLE Duty. Therefore I will Forgive without grudg<g ref="char:EOLhyphen"/>ing.</hi> What more Equal? If God will Revenge my Injurer, What need I wiſh him Evil? If God will Reward me, how juſt is it that I <hi>obey</hi> his Com<g ref="char:EOLhyphen"/>mand, and render an evil Man Good for Evil? If others be bound to for<g ref="char:EOLhyphen"/>give me, as righteouſly I am bound to forgive them. 'Tis a plain Caſe; I am in <hi>Bedlam</hi> as long as I am in a <hi>vin<g ref="char:EOLhyphen"/>dictive Paſſion.</hi> Return O my Reaſon, and let me do my moſt <hi>reaſonable Ser<g ref="char:EOLhyphen"/>vice,</hi> Rom. 12.1.</p>
+               <p n="4">
+                  <pb n="12" facs="tcp:133213:6"/>4. <hi>It is a Duty of my own COM<g ref="char:EOLhyphen"/>MANDING. Therefore for very ſhame I will Forgive.</hi> Alas, I charge my Children to forgive each other's Wrongs; and ſtill leave it to me to right them. Do I look that my <hi>Worm<g ref="char:EOLhyphen"/>ſhip</hi> ſhould be obſerved more than my Creator's <hi>Godhead?</hi> Or, Dream I that my Power is more Soveraign over my Babes, than his over me and my Paſ<g ref="char:EOLhyphen"/>ſions? With what Face can I anſwer it, <hi>Thou that preacheſt and commandeſt a Man, ſhould not hate his Enemies, doſt thou hate thine?</hi> Rom. 2.21.</p>
+               <p n="5">5. <hi>It is a Duty moſt GLORIO<g ref="char:V">Ʋ</g>S. Therefore I will ambitiouſly Forgive.</hi> Wherein is God himſelf more Glori<g ref="char:EOLhyphen"/>ous, than in letting go his Anger? <hi>Who is a God like unto thee, that par<g ref="char:EOLhyphen"/>doneth Iniquity?</hi> Mich. 7.18. Fools think it <hi>ignoble</hi> to digeſt <hi>Injury.</hi> But be it ever my Motto, what the wiſe Man writes; <hi>It is the Glory of a Man to paſs over a Tranſgreſſion,</hi> Prov. 19.11. To Forgive a malicious Wrong, is to put on a very glorious Crown.</p>
+               <p n="6">
+                  <pb n="13" facs="tcp:133213:6"/>6. <hi>It is my BENEFICIAL Duty. Therefore I will covetouſly Forgive.</hi> More is got by true Forgiving <hi>one Treſpaſs,</hi> than by Receiving <hi>many a Kindneſs.</hi> Are the King's Dominions worth an Evidence for Heaven? Forgiving an Injury is a good Evidence; it is ſo, if Chriſt's be a good Authority. <hi>If you forgive Men their Treſpaſſes, your Heavenly Father will forgive you,</hi> Mat. 6.14. O my Soul, have a reſpect to this Recompence of Reward.</p>
+               <p n="7">7. <hi>It is my FREQ<g ref="char:V">Ʋ</g>ENT Duty. Therefore I will Forgive, of deſire to learn to Forgive.</hi> Injuries be not rare, as <hi>Thunder;</hi> but common as <hi>Day-light.</hi> And they muſt be Remitted, or God muſt be Denied. I had need learn therefore very <hi>perfectly,</hi> what I am to do <hi>daily.</hi> But (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) what we would learn to do, by doing it we muſt learn. I will Forgive, to perfect me in For<g ref="char:EOLhyphen"/>giving; as Children write, to per<g ref="char:EOLhyphen"/>fect them in Writing. I will <hi>abound in this Work of the Lord, that I may
+<pb n="14" facs="tcp:133213:7"/> get from ſtrength to ſtrength in it,</hi> Pſal. 84.7. God rewards Grace with Grace, <hi>Pſal.</hi> 119.55, 56.</p>
+               <p n="8">8. <hi>It is my VOWED Duty. Therefore I will Forgive in the dread of Perjury.</hi> Conſtructively, was I ſworn in my <hi>holy Baptiſm;</hi> and ſo have I been at the <hi>Holy Supper,</hi> full often, to Forgive my Treſpaſſers. Wherefore, <hi>Having Vowed unto God, I will not delay to pay it,</hi> Eccleſ. 5.4.</p>
+               <p n="9">9. <hi>It is my CONSOLATIVE Duty. Therefore I will, for Comfort's ſake, For<g ref="char:EOLhyphen"/>give.</hi> Never, never, never, do God above, Men below, and Conſcience within, ſpeak more kindly, than when we do Forgive moſt eminently. If ever, then it's ſaid as unto <hi>Abra<g ref="char:EOLhyphen"/>ham, Now I know thou feareſt God,</hi> Gen. 22.12. Ordinarily more ſenſi<g ref="char:EOLhyphen"/>ble Comfort is given in the Remiſſion of one Injury, than in hearing of ſe<g ref="char:EOLhyphen"/>ven Sermons.</p>
+               <p n="10">
+                  <pb n="15" facs="tcp:133213:7"/>10. <hi>It is my DEFENSIVE Duty.</hi> Therefore I will <hi>Forgive, were it but to ſilence the Ignorance of fooliſh Men.</hi> By this Duty, I ſingularly Convince pro<g ref="char:EOLhyphen"/>fane Men, that I am acted by a Spirit much better than theirs. <hi>This Good overcomes their Evil,</hi> quencheth their Wildfires; and ſometimes extorteth their Praiſe of Religion. Speak Ex<g ref="char:EOLhyphen"/>perience! This <hi>Wiſdom is a great De<g ref="char:EOLhyphen"/>fence,</hi> Eccleſ. 7.12.</p>
+               <p n="11">11. <hi>It is my FAITH-EXERCI<g ref="char:EOLhyphen"/>SING Duty. Therefore I will Forgive, to Keep my Faith in Action.</hi> Faith's <hi>ex<g ref="char:EOLhyphen"/>erciſe,</hi> is Faith's <hi>encreaſe.</hi> And to good purpoſe is it exerciſed in Forgiving. A Duty, we can do nothing of, till Faith come and ſhows us; that, what<g ref="char:EOLhyphen"/>ever the Wrong be that's done us, it was ordered <hi>by God's Providence;</hi> and we ſhall be benefited by it <hi>through his Grace.</hi> A Duty, then indeed eaſy. <hi>David</hi> can then bear <hi>Shimei</hi>'s Curſing, when Faith ſays, that <hi>God bid him.</hi> And we, as he, uſe to be Dumb and Calm, when Faith ſaith of a bitter
+<pb n="16" facs="tcp:133213:8"/> Event, <hi>God did it.</hi> Then we can tell our Enemies, as <hi>Joſeph</hi> his Brethren; <hi>It was not you that VVronged us.</hi> Gen. 45.8.</p>
+               <p n="12">12. <hi>It is but my MOMENTANY Du<g ref="char:EOLhyphen"/>ty. Therefore I will thankfully Forgive.</hi> What, can I not have Patience, one ſhort Vapor's continuance! My Life's no longer in the <hi>Treſpaſſing World.</hi> And in <hi>Heaven,</hi> there will be no Wrongs done me. I ſhall love my ſelf, no bet<g ref="char:EOLhyphen"/>ter than every one will Love me there. At the Judgment Day, if my Treſpaſ<g ref="char:EOLhyphen"/>ſers Repent not before, it will be my <hi>Duty</hi> and <hi>Privilege</hi> to laugh at their Calamity, and mock when their Fear comes. It is certain, <hi>The Saints ſhall Judg the World,</hi> 1 Cor. 6.2.</p>
+            </div>
+            <div type="part">
+               <head>Concerning thy ſelf, ſpeak on to this purpoſe.</head>
+               <p n="1">1. <hi>Thouſands and ten Thouſands of God's Pardons have I needed, and daily need. Therefore I will Forgive.</hi> Mul<g ref="char:EOLhyphen"/>tiplied Pardons hold me out of Hell;
+<pb n="17" facs="tcp:133213:8"/> to Pardon will I ever multiply, there<g ref="char:EOLhyphen"/>fore. Leſt God ſay to me, <hi>O thou wicked Servant, I forgive thee all that Debt, ſhouldeſt not thou have had com<g ref="char:EOLhyphen"/>paſſion on thy Fellow-Servant, even as I had pity on thee?</hi> Mat. 18.32, 33.</p>
+               <p n="2">2. <hi>I have and ſhall ever need abun<g ref="char:EOLhyphen"/>dance of Mens Forgiveneſs. Therefore I will Forgive.</hi> O my Soul, <hi>Take no heed unto all words that are ſpoken. For, oftentimes thine own Heart knoweth, that thou thy ſelf haſt Curſed others.</hi> Eccleſ. 7.21, 22.</p>
+               <p n="3">3. <hi>I have my Self, times without num<g ref="char:EOLhyphen"/>ber, Wronged my own Soul. Therefore I will Forgive.</hi> No Man, no Devil, hath had the Power, <hi>ſo much</hi> to injure me, as I have my ſelf, injured my ſelf. And what can I love an <hi>injurious ſelf,</hi> and not an <hi>injurious Neighbour?</hi> There be thouſands of Motives to forgive the worſt Enemies, in that one Text, <hi>He that Sinneth, wrongeth his own Soul.</hi> Prov. 8.36.</p>
+               <p n="4">
+                  <pb n="18" facs="tcp:133213:9"/>4. <hi>I ſhall Sin on againſt God, againſt Men, and againſt my own Soul, if I do not Forgive every Enemy I have. Therefore I will Forgive.</hi> Horror, where art thou come ſeize me, in the thought of Re<g ref="char:EOLhyphen"/>nouncing God, enraging Men, mur<g ref="char:EOLhyphen"/>dering my own Soul! The Queſtion is a Thunderbolt; <hi>After thy hardneſs and impenitent Heart, treaſureſt thou up un<g ref="char:EOLhyphen"/>to thy ſelf Wrath, againſt the Day of Wrath, and revelation of the righteous Judgment of God?</hi> Rom. 2.5.</p>
+               <p n="5">5. <hi>I ſhall raze God's Image out of my Soul, and print the Devil's Image upon it, if I do not Forgive. Therefore I will Forgive.</hi> My Saviour tells me I muſt Forgive, that I may be <hi>like my Father in Heaven,</hi> Matth. 5.45. And his Apoſtle tells me, I muſt <hi>not let the Sun go down upon my Wrath,</hi> [my Un<g ref="char:EOLhyphen"/>forgiving Wrath] <hi>leſt I give place</hi> [or entertainment] <hi>to the Devil.</hi> Epheſ. 4.26, 27. What then, ſhall I ſay in the Language of Practice, <hi>I will not be like God, I will be like the Devil?</hi> God forbid.</p>
+               <p n="6">
+                  <pb n="19" facs="tcp:133213:9"/>6. <hi>I muſt not Pray with any hope of God's granting my Prayer, if I do not Forgive. Therefore I will Forgive.</hi> In <hi>Nature,</hi> I can't Live without Breath<g ref="char:EOLhyphen"/>ing, nor in <hi>Grace</hi> without Praying. But, if no Forgiving, there is no Pray<g ref="char:EOLhyphen"/>ing. There is no right <hi>Lifting up of the holieſt Hands, but without VVrath,</hi> 1 Tim. 2.8. Chriſt's Rule for Prayer is utterly broke by the leaſt Unforgiving Anger. Vainly I bow my Knees, if I do not Forgive my Enemies. And vainly, and worſe I Live, if I do not Pray. If I were never to pray any more, I were better Live no more: Yea, though I ſunk into the Lake of Fire. But, My Saviour is expreſs, <hi>If you forgive not Men, neither will your Father forgive your Treſpaſſes.</hi> Matth. 6.15.</p>
+               <p n="7">7. <hi>I muſt not come to the Lord's Ta<g ref="char:EOLhyphen"/>ble, unleſs I Forgive. Therefore I will Forgive.</hi> Fearful! Fearful! What ſhall I be kept away as a Dog, from the Ta<g ref="char:EOLhyphen"/>ble of my Lord? Yes: For, <hi>if I have not Charity, I am Nothing.</hi> 1 Cor. 13.
+<pb n="20" facs="tcp:133213:10"/> 2, 3, 7. And who will admit to the <hi>Holy Feaſt,</hi> a Wretch that hath nothing appearing of the <hi>Holy Spirit?</hi> As long as I am Unreconciled to Men, I am excommunicated from the gracious Preſence of God. But forbid, good God, that it ſhould be ſaid of my Per<g ref="char:EOLhyphen"/>ſon, <hi>Purge out that old (ſowr) Leaven, that ye may be a new Lump,</hi> (a Holy So<g ref="char:EOLhyphen"/>ciety)! 1 <hi>Cor.</hi> 5.7.</p>
+               <p n="8">8. <hi>I ſhall not be able to Hear the Word of God with hope of Profit, if I do not Forgive. Therefore I will Forgive.</hi> Wo is me! I cannot look to have <hi>God</hi> to be my <hi>Saviour,</hi> if his <hi>Word</hi> be not <hi>his Pow<g ref="char:EOLhyphen"/>er to my Salvation.</hi> But, for ought I ſee, his Word is not likely to ſave any Soul, ſave ſuch as do <hi>receive it with Meekneſs.</hi> That is, with an humble ſubmiſſive frame of Spirit. <hi>Jam.</hi> 1.21. But where is my <hi>Meekneſs,</hi> when God, Men and my own Heart ſee my <hi>Stub<g ref="char:EOLhyphen"/>borneſs?</hi> And my <hi>Implacableneſs</hi> ſaith in the Language of Practice, <q>If God will teach none but <hi>meek Sin<g ref="char:EOLhyphen"/>ners,</hi> I will be none of his <hi>Scholars!</hi>
+                  </q>
+                  <pb n="21" facs="tcp:133213:10"/> while I am ſo Croſs, I am plainly un<g ref="char:EOLhyphen"/>der God's Curſe. But I do not Submit to my <hi>God,</hi> if I do not Remit all whom he commands me.</p>
+               <p n="9">9. <hi>I ſhall not be taken into the Com<g ref="char:EOLhyphen"/>pany of any good and wiſe Man, if I do not Forgive. Therefore I will Forgive.</hi> 'Tis Hell upon Earth to be in ill Com<g ref="char:EOLhyphen"/>pany: 'tis the Curſe of Curſes there<g ref="char:EOLhyphen"/>fore, to be caſt off by good Company. But what a word is that, <hi>Make no friendſhip with an ANGRY Man,</hi> [or an Unforgiving one;] <hi>and with a F<g ref="char:V">Ʋ</g>
+                     <g ref="char:EOLhyphen"/>RIO<g ref="char:V">Ʋ</g>S Man thou ſhalt not go,</hi> [thou ſhalt not Converſe with him;] <hi>Leſt thou learn his Ways, and get a Snare to thy Soul.</hi> Prov. 22.24, 25. What re<g ref="char:EOLhyphen"/>mains then, but that I reſolve to for<g ref="char:EOLhyphen"/>give <hi>every Enemy,</hi> or Live without <hi>one Friend?</hi> For till I do forgive, <hi>God, Angels</hi> and <hi>Saints</hi> turn from me. And I have only the <hi>Devil,</hi> and his <hi>ill Men</hi> and <hi>Angels</hi> for my Company. Well, if it were but for the company of God's Servants, I would put up a thouſand Affronts.</p>
+               <p n="10">
+                  <pb n="22" facs="tcp:133213:11"/>10. <hi>I ſhall Sin wilfully, and not of Infirmity, if I do not Forgive. There<g ref="char:EOLhyphen"/>fore I will Forgive.</hi> O what is all Sin? but of all, of what a Crimſon die is <hi>wilful</hi> Sin? Now, let me think; I am <hi>
+                     <g ref="char:V">Ʋ</g>nregenerate,</hi> or <hi>Regenerate.</hi> If <hi>
+                     <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>regenerate;</hi> ſuch Mens <hi>
+                     <g ref="char:V">Ʋ</g>nableneſs</hi> to obey God, is certainly, their <hi>
+                     <g ref="char:V">Ʋ</g>nwil<g ref="char:EOLhyphen"/>lingneſs.</hi> Their <hi>Impotence</hi> is a <hi>Moral</hi> one. But, if I am <hi>Regenerate,</hi> 'tis ſure, <hi>I am able to overcome Evil with Good.</hi>
+               </p>
+               <p>In firſt Converſion, the holy Spirit giveth an ability to obey all God's Com<g ref="char:EOLhyphen"/>mands with a Sincerity that ſhall be accepted; that through the Grace of the New Covenant, ſhall be accepted. I believe that Text; <hi>Whatſoever is born of God, overcometh the World;</hi> i. e. the World's Temptations to diſobey God. 1 <hi>John</hi> 5.4. A wilful Sinner, is the Devil's livelieſt Picture!</p>
+               <p n="11">11. <hi>I ſhall either Convert my Ene<g ref="char:EOLhyphen"/>mies, or be Rewarded of God for endea<g ref="char:EOLhyphen"/>vouring it, if I do Forgive them. There<g ref="char:EOLhyphen"/>fore
+<pb n="23" facs="tcp:133213:11"/> I will Forgive.</hi> To Convert <hi>one Soul,</hi> is more than to ſave the Lives of all <hi>the Bodies</hi> in this World. And to Forgive an injurious Man's Sin, is a direct means to convert his Soul: At leaſt, to endear him; and ſo make him Attentive, and Flexible, to my Coun<g ref="char:EOLhyphen"/>ſels for his Salvation. O that <hi>Rom.</hi> 12.10. were duly ſtudied! But, what if my Kindneſs doth not Convert my E<g ref="char:EOLhyphen"/>nemy? Will not God accept my good Will, Yes; he will reward it, and praiſe it. He will ſay to me, as he did to <hi>David, For as much as it was in thine Heart,—thou didſt well that it was in thine Heart.</hi> 2 Chron. 6.8.</p>
+               <p n="12">12. <hi>I ſhall not be able to reſt in all other poſſible Evidences for Heaven, if this one of Forgiving my Enemies be wanting.</hi> Therefore I will Forgive. Miſerable is every <hi>Life on Earth,</hi> that is without <hi>Evidences for Heaven.</hi> But imperfect are all Evidences, and <hi>
+                     <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>demonſtrative,</hi> if this indiſpenſable one, be miſſing. Let me be ever of his Mind, who was a Man after God's
+<pb n="24" facs="tcp:133213:12"/> own Heart; So let me think as he thought and ſpoke; <hi>Then ſhall I not be Aſhamed when I have reſpect to all thy Commandments,</hi> Pſal. 119.6. All the Evidences that can be heaped together will ſignify little in a dying Hour; unleſs Conſcience telleth us, that we have been like <hi>Zacharias</hi> and his Wife; <hi>Righteous before God, walking in All the Commandments and Ordinances of the Lord blameleſs.</hi> Luke 1.6.</p>
+            </div>
+            <div type="conclusion">
+               <p>I will conclude with <hi>Apoſtolical Bal<g ref="char:EOLhyphen"/>ſam.</hi> So will I name St. <hi>Paul</hi>'s de<g ref="char:EOLhyphen"/>ſcription of <hi>Charity.</hi> Bleſſed Dr. <hi>Man<g ref="char:EOLhyphen"/>ton</hi> hath left a <hi>Sermon</hi> of it; I preſent but a ſhort <hi>Gloſs.</hi> And wiſh that it be not more than will be <hi>Applicatively</hi> read. I have made my <hi>Pages</hi> ſo <hi>Few,</hi> that <hi>Readers</hi> might be many.</p>
+               <p>
+                  <hi>Sweet Love!</hi> whither art thou fled? Return, return thou <hi>bleſſed of the Lord,</hi> return, return, and <hi>bleſs</hi> us! Thus the <hi>Apoſtle,</hi> 1 Cor. 13.</p>
+               <pb n="25" facs="tcp:133213:12"/>
+               <p>
+                  <label>Charity ſuffereth long.</label>
+               </p>
+               <p> A Charita<g ref="char:EOLhyphen"/>ble Man is not a <hi>VVaſp.</hi> When he is Injured, he does not preſently put forth his Sting; but waits for two things, for his Enemies <hi>Repentance,</hi> and for his own <hi>Deliverance.</hi> Our Saviour received the worſt of Provoca<g ref="char:EOLhyphen"/>tions, but never gave one ill Word for them.</p>
+               <p>
+                  <hi>Charity is Kind.</hi> A Charitable Man forbears doing Evil, and is Forward to do Good. He not only <hi>Stabs</hi> not, but he <hi>Salutes</hi> diſobliging Creatures. Not only <hi>Starves</hi> them not, but <hi>Feeds</hi> them, yea Feaſts them.</p>
+               <p>
+                  <label>Charity Envieth not.</label>
+               </p>
+               <p> A Charitable Man hath not the Spirit of <hi>Cain.</hi> He ſaith, as the <hi>Baptiſt</hi> of old, when oc<g ref="char:EOLhyphen"/>caſion is; <hi>I muſt Decreaſe, and this Man muſt Increaſe.</hi> His Eye is not Evil, becauſe God's is Good. He is not made Sick, to ſee any Man made Well.</p>
+               <pb n="26" facs="tcp:133213:13"/>
+               <p>
+                  <label>Charity Vaunteth not it ſelf.</label>
+               </p>
+               <p> A Charitable Man abhors <hi>Oſtentation:</hi> He allows not himſelf to let forth his own, and to call for other Mens <hi>Vices,</hi> with the Sound of his <hi>Vertues.</hi> They that needleſly <hi>raiſe</hi> themſelves, do <hi>Ir<g ref="char:EOLhyphen"/>ritate</hi> others. But he takes no Praiſe but to give it unto God.</p>
+               <p>
+                  <label>Charity is not puffed up.</label>
+               </p>
+               <p> A Charita<g ref="char:EOLhyphen"/>ble Man is not incident into the <hi>Tym<g ref="char:EOLhyphen"/>pany.</hi> He knows a Knowledg that pulleth down, from Pride and Scorn of any Men. He knows, it is rare that the <hi>beſt Man</hi> is not in ſome Vertue, <hi>inferior</hi> to him whom he Contemns.</p>
+               <p>
+                  <hi>Charity behaves not it ſelf <g ref="char:V">Ʋ</g>nſeemly.</hi> A Charitable Man is a <hi>Modeſt</hi> one. He is aſhamed of offenſive Words, and very Looks; Deeds, and very Habits or Dreſſes of his Body. The divine Charge <hi>[whatſoever things are Lovely, think on theſe]</hi> runneth in his Mind.</p>
+               <p>
+                  <label>Charity ſeeks not her own.</label>
+               </p>
+               <p> A Cha<g ref="char:EOLhyphen"/>ritable Man is not like a <hi>VVen,</hi> that
+<pb n="27" facs="tcp:133213:13"/> draws all to it ſelf. He <hi>ſeeks</hi> not his own Intereſt, ſo as to <hi>Neglect</hi> others. He ſo cares for his own <hi>Cabin,</hi> as to wiſh very well to the whole Ship.</p>
+               <p>
+                  <label>Charity is not eaſily Provoked.</label>
+               </p>
+               <p> A Charitable Man, can be <hi>Angry and not Sin.</hi> Be <hi>Hot,</hi> and not in a <hi>Feaver.</hi> Be <hi>VVarm,</hi> and not <hi>Boil</hi> ſo as to let Scum run over. When Neceſſitated to Anger, he Tempers the Fire with holy Water. He is a Man of broader No ſtills than his Neighbours. And neither takes he Anger ſo ſoon, or Keeps it ſo long as others.</p>
+               <p>
+                  <label>Charity thinketh no Evil.</label>
+               </p>
+               <p> A Cha<g ref="char:EOLhyphen"/>ritable Man <hi>Plots</hi> none. And what is more, he is not haſty to <hi>impure</hi> any. He ſuſpects no Evil, if he can find a ſenſe that is Good, in which to take Mens Words and Works. Yea, where he ſees Evil, he doth not as a <hi>Vixon,</hi> brawl and upbraid with Outrage; ex<g ref="char:EOLhyphen"/>claiming of more than he ſees.</p>
+               <pb n="28" facs="tcp:133213:14"/>
+               <p>
+                  <label>Charity rejoiceth not in Evil.</label>
+               </p>
+               <p> A Charitable Man is ſorry for all Evil un<g ref="char:EOLhyphen"/>der the Sun. For the Evil of <hi>Doing,</hi> and the Evil of <hi>Suffering.</hi> Revenge is others Meat and Sauce; but 'tis his Wormwood and Poiſon.</p>
+               <p>
+                  <label>Charity rejoiceth in the Truth,</label>
+               </p>
+               <p> [or the Sincerity of Goodneſs in any.] A Cha<g ref="char:EOLhyphen"/>ritable Man, welcomes the News of Goodneſs in any, and of Goodneſs un<g ref="char:EOLhyphen"/>to any one. He is of that Countrey, where they all Love one another as themſelves.</p>
+               <p>
+                  <label>Charity beareth all things,</label>
+               </p>
+               <p> [Covereth all.] A Charitable Man, hides all the Faults, that he can without Sin and Faultineſs. He is the moſt forward to confeſs his own, and to cover others Infirmities.</p>
+               <p>
+                  <label>Charity believeth all things.</label>
+               </p>
+               <p> A Cha<g ref="char:EOLhyphen"/>ritable Man, Credits all <hi>good</hi> Reports, as readily as all <hi>Evil</hi> ones; when they are not prevalently contradicted. Of
+<pb n="29" facs="tcp:133213:14"/> things apparently Falſe, Belief is as Impoſſible as Unjuſt.</p>
+               <p>
+                  <label>Charity endureth all things.</label>
+               </p>
+               <p> A Cha<g ref="char:EOLhyphen"/>ritable Man puts up all Wrongs done unto himſelf. Rather than not be <hi>Kind</hi> to his Enemy, he will make it ſaid that he is not <hi>Juſt</hi> to himſelf. What<g ref="char:EOLhyphen"/>ever he can let go unpuniſhed, with<g ref="char:EOLhyphen"/>out breach of Law; he will non-ſuit without breach of's Peace.</p>
+               <p>
+                  <label>Charity never fails.</label>
+               </p>
+               <p> A Charitable Man, ſhall <hi>Eternally</hi> hold his Love of God and Men. His Love of both, ſhall Live in <hi>Heaven</hi> as on <hi>Earth.</hi> It ſhall ever <hi>Grow</hi> here, and <hi>Flouriſh</hi> for ever there.</p>
+               <p>May I ſhut up with the ſtupendous practice of <hi>David</hi>'s memorable Pie<g ref="char:EOLhyphen"/>ty; and our <hi>Saviour's</hi> rebuke of his Diſciples Wrath, though it ſeemed very Pious. The <hi>firſt</hi> is Pſal. 35.11, 12, 13, 14. <hi>Falſe witneſſes did riſe up, they laid to my Charge things that I knew not. They
+<pb n="30" facs="tcp:133213:15"/> rewarded me Evil for Good, to the ſpoil<g ref="char:EOLhyphen"/>ing of my Soul. But as for me, when they were Sick, my clothing was Sackcloth: I humbled my Soul with Faſting, and my Prayer returned into mine own Boſom. I behaved my Self as though he had been my Friend, or Brother: I bowed down heavily, as one that Mourneth for his Mother.</hi> The <hi>next</hi> is, Luke 9.51, 52, 53, 54, 55, 56. <hi>And it came to paſs, when the time was come, that he ſhould be re<g ref="char:EOLhyphen"/>ceived up, he ſtedfaſtly ſet his Face to go to</hi> Jeruſalem. <hi>And ſent Meſſengers be<g ref="char:EOLhyphen"/>fore his Face, and they went, and entred into a Village of the</hi> Samaritans <hi>to make ready for him. And they did not receive him, becauſe his Face was as though he would go to</hi> Jeruſalem. <hi>And when his Diſciples</hi> James <hi>and</hi> John <hi>ſaw this, they ſaid, Lord, wilt thou that we command Fire to come down from Heaven, and conſume them even as</hi> Elias <hi>did? But he turned and rebuked them, and ſaid, Ye know not what manner of Spirit ye are of. For the Son of Man is not come to deſtroy Mens Lives, but to ſave them. And they went to another Village.</hi>
+               </p>
+               <pb n="31" facs="tcp:133213:15"/>
+               <p>
+                  <hi>Reader,</hi> farewel! <hi>Superfluous Books,</hi> are indeed <hi>additions to that heap of our Vanities,</hi> which needs them not. Whe<g ref="char:EOLhyphen"/>ther this be ſuch, I am content that thou be the Judg, if thou wilt but firſt remember Dr. <hi>Hammond</hi>'s memorable Words; <q>Of all Errors and Ignorances there are none ſo Worthy of our Pains to Cure, or Caution to Prevent, as thoſe that have <hi>[moſt]</hi> influence on Practice.</q> I add thoſe of Mr. <hi>Howe</hi> wherewith he ſhuts up his Treatiſe of the Carnality of Religious Contention. Words moſt worthy of aweful Me<g ref="char:EOLhyphen"/>mory. <q>Do we think we ſhall carry Strife to Heaven, Envyings, Heart<g ref="char:EOLhyphen"/>burnings, Animoſities, Enmities, Ha<g ref="char:EOLhyphen"/>tred; ſhall we carry theſe to Heaven with us? Let us labour to diveſt our ſelves, and ſtrike off from our Spirits, every thing that cannot go with us thither. <hi>Now,</hi>
+                  </q>
+               </p>
+               <p>The God of Love and Peace, make our <hi>Chriſtian Societies</hi> leſs like unto <hi>Mahometan Janizaries!</hi> And <hi>every one
+<pb n="32" facs="tcp:133213:16"/> that nameth the Name of Chriſt,</hi> to <hi>follow after Peace!</hi> And, to be Kind one to another, tender-hearted, FOR<g ref="char:EOLhyphen"/>GIVING one another, even as God for Chriſt's ſake, forgiveth them! <hi>Amen,</hi> and <hi>Amen.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:133213:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
